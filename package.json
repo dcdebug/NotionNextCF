@@ -67,6 +67,7 @@
     "webpack-bundle-analyzer": "^4.5.0"
   },
   "resolutions": {
+    "react": "17.0.2",
     "axios": ">=0.21.1"
   },
   "bugs": {
