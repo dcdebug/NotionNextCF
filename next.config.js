@@ -6,6 +6,7 @@ module.exports = withBundleAnalyzer({
     webpack5: true
   },
   images: {
+    unoptimized: true,
     // 图片压缩
     formats: ['image/avif', 'image/webp'],
     // 允许next/image加载的图片 域名
